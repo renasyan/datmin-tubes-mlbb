@@ -28,9 +28,9 @@ Sistem ini merekomendasikan tiga hero terbaik sebagai counter berdasarkan tiga h
 ---
 
 ## Anggota Tim
-– Aimee Clarissa Adyanugraha Salim
+- Aimee Clarissa Adyanugraha Salim
 - Miftha Huljannah Sarvita Yusuf  
-– Renasya Cahya Handayani
+- Renasya Cahya Handayani
 
 ---
 
